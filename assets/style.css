@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.profile-bg img {
+    width: 100%;
+    height: 38vh;
+}
+
+body {
+    margin: 0;
+}
+
+.profile-container {
+    text-align: center;
+    position: absolute;
+    top: 21%;
+    left: 50%;
+    right: 50%;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.profile-image img {
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 9px solid rgb(255, 255, 255);
+}
