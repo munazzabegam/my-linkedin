@@ -28,5 +28,15 @@ body {
     height: 250px;
     border-radius: 50%;
     object-fit: cover;
-    border: 9px solid rgb(255, 255, 255);
+    border: 9px solid rgb(142, 144, 144);
+}
+
+
+.main-container {
+    text-align: center;
+    margin-top: 10%;
+}
+
+.main-content h6{
+    color: #979494;
 }
